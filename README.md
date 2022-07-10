@@ -4,5 +4,10 @@ Workout App is a fitness mobile application for tracking calories and dietary de
 
 The application was thought out to make it easier for people who want to look out for their health.
 
-![Homepage Logo](https://user-images.githubusercontent.com/56543762/178157354-5387829e-b964-45ea-9fe1-72fcf0e1f0a9.jpg)
+This is our application logo.
 
+![homepage_logo](https://user-images.githubusercontent.com/56543762/178157735-b0f5eb4c-310f-4bab-8b60-90672ef5ebb4.png)
+
+When the device is open on the Android Studio, you should see an app with this logo on the screen.
+
+Click to open the application.
